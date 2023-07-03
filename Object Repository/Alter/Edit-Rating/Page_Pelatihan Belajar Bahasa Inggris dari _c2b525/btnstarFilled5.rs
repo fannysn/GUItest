@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnstarFilled5</name>
+   <tag></tag>
+   <elementGuidId>dcf5a474-71db-4d3a-8c14-94f4376ff920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;simple-tab-[object Object]&quot;]/span[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/div[3]/div/div[2]/div[1]/div/div[5]/button/span/svg/path</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.reviewStar > div.jss530 > #starRatingDiv-2 > #starRatingFilled-2 > span.MuiIconButton-label > svg.MuiSvgIcon-root.filledStar > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>starRatingFilled-5</value>
+      <webElementGuid>ea11ff5f-7378-4bc3-8351-d759130232a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/div[3]/div/div[2]/div[1]/div/div[5]/button/span/svg/path</value>
+      <webElementGuid>b1d3fed7-9b04-4b75-9922-11b6a81ef834</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

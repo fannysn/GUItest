@@ -23,12 +23,12 @@ WebUI.navigateToUrl('https://zenpro.id/')
 
 WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/span_Daftar'))
 
-WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Nama Lengkap_name'), 'fanny septi nurcahyani')
+WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Nama Lengkap_name'), 'kang testing')
 
-WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Email_email'), 'nurartgyawahyupratama@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Email_email'), 'izza.test1@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Kata Sandi_password'), 
-    '8rnxVmT9pieEqmmF1SkAqw==')
+    'RigbBhfdqOBGNlJIWM1ClA==')
 
 WebUI.sendKeys(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Kata Sandi_password'), Keys.chord(
         Keys.ENTER))
