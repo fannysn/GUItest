@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lanjut</name>
+   <tag></tag>
+   <elementGuidId>2479fe44-9883-4774-946e-e7fe016f7cd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.AppButton__StyledButton-sc-mn3o1q-0.bpCeTv.continueBtnMobile.MuiButton-containedPrimary > span.MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuis Topik 2'])[2]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c01440e-5c09-47d7-9505-df437b8f2825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>4b1c013e-f342-4a6d-8b0c-0e05011efa62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+      <webElementGuid>cb484508-4bc3-4968-8d45-dcae5d861adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiDialog-root DialogModal__DialogWrap-sc-3df5i2-0 iQzswZ&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper confPaper overflow-hidden MuiDialog-paperScrollPaper MuiDialog-paperWidthXs MuiDialog-paperFullScreen MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root p-0 sd-flex flex-column justify-content-center&quot;]/div[@class=&quot;childrenWrap&quot;]/div[@class=&quot;dialogContent&quot;]/div[@class=&quot;flex mt-4&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained AppButton__StyledButton-sc-mn3o1q-0 bpCeTv continueBtnMobile MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>342da5cc-9ddd-41b4-8a1d-834b7dce462f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuis Topik 2'])[2]/following::span[3]</value>
+      <webElementGuid>80350ed1-2259-40b3-80a1-e7bcb857d180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjut']/parent::*</value>
+      <webElementGuid>440a884a-001d-4f6b-9223-50adc52fcb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>d0d925f6-fade-4125-992b-fa12ac760683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>c60198f3-c757-41d8-8ebc-c7ec3c53d5fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Lihat Detail Kelas</name>
+   <tag></tag>
+   <elementGuidId>1a82bb38-f01d-41b2-bbc0-9e60acf9ddf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-wc5b3e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-scrollview-children-container']/div[2]/div/div/a/div/div/div[3]/div[6]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a9ce48e0-660a-4424-adcd-9220fe02ee20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-wc5b3e</value>
+      <webElementGuid>d7fd916b-c3d4-42f9-ad9e-1756101b6c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Detail Kelas</value>
+      <webElementGuid>405e62df-c68f-4e2d-99c7-5e1157d0bd02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-scrollview-children-container&quot;)/div[2]/div[@class=&quot;css-1k6pjn0&quot;]/div[@class=&quot;css-1ibwzdy&quot;]/a[@class=&quot;css-rwj60y&quot;]/div[@class=&quot;css-1de9asv&quot;]/div[@class=&quot;css-1u0gzfm&quot;]/div[@class=&quot;css-1vkhgsa&quot;]/div[@class=&quot;css-18stsh5&quot;]/div[@class=&quot;css-1qyzu3c&quot;]/p[@class=&quot;css-wc5b3e&quot;]</value>
+      <webElementGuid>1739a7e3-a0e9-4b28-be93-3488ab520c3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-scrollview-children-container']/div[2]/div/div/a/div/div/div[3]/div[6]/div/p</value>
+      <webElementGuid>f4add6f7-471c-4daf-b3a4-b3980b4f83dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(41 rating)'])[1]/following::p[2]</value>
+      <webElementGuid>c3ba7b8d-cfe2-409f-9e52-8c3fa75c03f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bisnis'])[8]/following::p[3]</value>
+      <webElementGuid>fef7d283-9c00-45ba-8df2-de812dfc171f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengembangkan Bisnis Makanan Beku bagi Spesialis Pengembangan Bisnis'])[1]/preceding::p[2]</value>
+      <webElementGuid>de919b7c-a28d-446f-9b11-1d6200830964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pramita Caroline'])[1]/preceding::p[2]</value>
+      <webElementGuid>910618b8-af7f-423b-9ff0-f45c031f5d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Detail Kelas']/parent::*</value>
+      <webElementGuid>91933db7-5a5a-446f-9642-05cae800f086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]/div/p</value>
+      <webElementGuid>41d3b885-c393-4940-b529-585c1ac77759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Lihat Detail Kelas' or . = 'Lihat Detail Kelas')]</value>
+      <webElementGuid>7a5e30d4-4c0d-414d-8d5a-4b6388c7991e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

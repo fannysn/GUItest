@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>melihat video materi, ringkasan materi dan mengerjakan kuis</description>
+   <name>Course2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cfbea44c-066c-4280-8c3d-462955ed2eba</testCaseGuid>
+</TestCaseEntity>

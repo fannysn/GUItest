@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pengembangan Diri</name>
+   <tag></tag>
+   <elementGuidId>7c8bb660-89b9-4493-98cf-889e92f70573</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/button[9]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3cc7410-4de8-4991-bda1-d3366a4a7d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>1963f68f-6616-4192-9422-2e0e27c2c4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengembangan Diri</value>
+      <webElementGuid>08732589-2606-448e-89e8-b89f1ab1abb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jss369&quot;]/div[@class=&quot;jss413&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;jss414&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text customButton&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>8dd95f9e-0a9e-4167-9ab4-f0e0f30f6a52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/button[9]/span</value>
+      <webElementGuid>f69d6a48-d108-4ca3-bcec-efd1758f326e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembuatan Konten'])[1]/following::span[2]</value>
+      <webElementGuid>0d8d7579-1865-4219-b3bb-434d98ac0276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teknologi'])[1]/following::span[4]</value>
+      <webElementGuid>b5ff306c-9901-40ab-a9b8-9317b62526e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemampuan Komunikasi'])[1]/preceding::span[4]</value>
+      <webElementGuid>7bdfa67b-8b91-4b12-a4dd-6588c251735e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kemampuan Manajemen'])[1]/preceding::span[6]</value>
+      <webElementGuid>25c23493-d0ba-433d-a20b-3ab105e62319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengembangan Diri']/parent::*</value>
+      <webElementGuid>3ad26f39-297b-4f80-8ada-e58356022ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[9]/span</value>
+      <webElementGuid>09aff39b-9e84-4c30-b832-9bf1b2c2f431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pengembangan Diri' or . = 'Pengembangan Diri')]</value>
+      <webElementGuid>304ff9e6-17f4-4022-938c-328ffb10d63b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

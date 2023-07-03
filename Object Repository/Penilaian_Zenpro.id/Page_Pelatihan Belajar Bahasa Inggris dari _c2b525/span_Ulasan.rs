@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ulasan</name>
+   <tag></tag>
+   <elementGuidId>6883f75f-c179-4ece-b862-3111ad5b9099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='simple-tab-[object Object]']/span)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>493025a3-29fe-46f1-a24d-8c00cb9b49be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTab-wrapper</value>
+      <webElementGuid>6589591b-1cf0-46a2-ae5e-c7fee721d9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ulasan</value>
+      <webElementGuid>9f076c87-122a-435e-9fef-5bd42fa3f54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jss91&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;mainContent&quot;]/div[@class=&quot;MuiBox-root jss353 MenuBar__MenuBarWrap-sc-24ce6c-0 gIXumC&quot;]/div[@class=&quot;MuiTabs-root MenuBar__StyledTabs-sc-24ce6c-1 dPBFms&quot;]/div[@class=&quot;MuiTabs-scroller MuiTabs-scrollable&quot;]/div[@class=&quot;MuiTabs-flexContainer&quot;]/button[@id=&quot;simple-tab-[object Object]&quot;]/span[@class=&quot;MuiTab-wrapper&quot;]</value>
+      <webElementGuid>8a232348-95fb-4dcb-bae3-4e26fadd1dbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='simple-tab-[object Object]']/span)[3]</value>
+      <webElementGuid>d7abe325-1cda-4911-954e-5ffcd6d56223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang'])[1]/following::span[2]</value>
+      <webElementGuid>553ee4df-d217-4b32-b160-d23d26900f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekaman'])[1]/following::span[3]</value>
+      <webElementGuid>d68ab00d-d6a4-4ad6-98e9-959b34b70951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diskusi'])[1]/preceding::span[4]</value>
+      <webElementGuid>4f264aed-6afc-4d43-b18b-6907d1108500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ujian Praktek'])[1]/preceding::span[6]</value>
+      <webElementGuid>c28bb5b0-6756-48cd-8fcb-513c28ca2921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ulasan']/parent::*</value>
+      <webElementGuid>57ea8555-9470-457e-a18c-73d969ea8138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]/span</value>
+      <webElementGuid>61647c3b-9897-4ae9-b932-d316650f260b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ulasan' or . = 'Ulasan')]</value>
+      <webElementGuid>0673f492-ec45-4231-8271-8e43a50ce6b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kelas Saya</name>
+   <tag></tag>
+   <elementGuidId>4d8e56d7-de65-4808-a2f1-314894db745a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/span/div/span/div/div/div/div/div[2]/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13252f18-6696-4893-a217-c99e8f3d3d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-family</name>
+      <type>Main</type>
+      <value>$body</value>
+      <webElementGuid>331779ae-db07-4039-86c8-eb33e356bac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> is_SizableText font_body _col-1ptziwa _ff-4yewjq _mt-0px _mr-0px _mb-0px _ml-0px _ww-break-word _bxs-border-box _dsp-inline</value>
+      <webElementGuid>5481046a-9711-4ee6-b7da-0b1f2f2e4fbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelas Saya</value>
+      <webElementGuid>7b0d3c59-0997-46d0-a380-6bbd38bdd83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/span[@class=&quot;t_sub_theme t_light _dsp_contents&quot;]/div[@class=&quot;is_YStack  _fg-1 _fs-1 _fb-auto _fd-column _miw-0px _mih-0px _pos-relative _bxs-border-box _dsp-flex _ai-stretch&quot;]/span[@class=&quot;t_sub_theme t_dark _dsp_contents&quot;]/div[@class=&quot;is_YStack  _bg-rsi03t _ox-hidden _oy-hidden _fg-1 _fs-1 _fb-auto _fd-column _miw-0px _mih-0px _pos-relative _bxs-border-box _dsp-flex _ai-stretch&quot;]/div[@class=&quot;is_YStack  _dsp-_gtMd_flex _dsp-none _bg-57q3d6 _fd-column _miw-0px _mih-0px _pos-relative _bxs-border-box _fb-auto _fs-0 _ai-stretch&quot;]/div[@class=&quot;is_YStack  _w-_gtLg_12c3duh _w-_gtMd_11v1rga _w-_gtSm_11e0523 _pr-1aj148u _pl-1aj148u _w-10011 _mt-auto _mr-auto _mb-auto _ml-auto _fd-column _miw-0px _mih-0px _pos-relative _bxs-border-box _fb-auto _dsp-flex _fs-0 _ai-stretch&quot;]/div[@class=&quot;is_XStack  _ai-center _jc-7aqssh _pr-1aj149p _pl-1aj149p _pt-1aj149p _pb-1aj149p _fd-row _miw-0px _mih-0px _pos-relative _bxs-border-box _fb-auto _dsp-flex _fs-0&quot;]/div[@class=&quot;is_XStack  _ai-center _fd-row _miw-0px _mih-0px _pos-relative _bxs-border-box _fb-auto _dsp-flex _fs-0&quot;]/div[@class=&quot;is_YStack  _dsp-_gtXs_flex _dsp-none _fd-column _miw-0px _mih-0px _pos-relative _bxs-border-box _fb-auto _fs-0 _ai-stretch&quot;]/div[@class=&quot;is_XStack  _ai-center _fd-row _miw-0px _mih-0px _pos-relative _bxs-border-box _fb-auto _dsp-flex _fs-0&quot;]/a[1]/span[@class=&quot;is_SizableText font_body _col-1ptziwa _ff-4yewjq _mt-0px _mr-0px _mb-0px _ml-0px _ww-break-word _bxs-border-box _dsp-inline&quot;]</value>
+      <webElementGuid>d8980a68-1487-43d8-89b6-aab47539c8c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/span/div/span/div/div/div/div/div[2]/div/div/a/span</value>
+      <webElementGuid>cdfad99c-400a-446a-8493-d1cc259165cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::span[4]</value>
+      <webElementGuid>64681a02-ca97-4d40-86e6-bc7d47e697fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baru'])[1]/following::span[9]</value>
+      <webElementGuid>96ac7c55-58e5-4ca3-9742-160460e104d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::span[5]</value>
+      <webElementGuid>659a7754-8282-4255-98ef-9459dd447458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari digital marketing'])[1]/preceding::span[8]</value>
+      <webElementGuid>72e3ac85-0580-442d-a2f4-7b23131f8a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelas Saya']/parent::*</value>
+      <webElementGuid>5eb2850f-16b9-4438-b8d3-7b0d193b90c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>c4af110a-4e22-455c-ad11-93de3969fe97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kelas Saya' or . = 'Kelas Saya')]</value>
+      <webElementGuid>1e67df01-1a3d-4446-b45f-d552d03be76b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

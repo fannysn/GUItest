@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_LIHAT DOKUMEN</name>
+   <tag></tag>
+   <elementGuidId>d344bed0-3c9b-4058-ad11-aa32af5ed075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-wc5b3e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/a/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b8ef6f0a-ac00-4858-a634-f992322c09b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-wc5b3e</value>
+      <webElementGuid>be285217-a16b-4e47-9e3f-b7615ec8d226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIHAT DOKUMEN</value>
+      <webElementGuid>5bdeb71e-2a54-47a9-84d9-1e1bb0ac04e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1s5sjt4&quot;]/div[2]/div[2]/div[@class=&quot;css-1a66z0j&quot;]/div[@class=&quot;css-nukipx&quot;]/div[@class=&quot;css-j1493g&quot;]/a[@class=&quot;css-rwj60y&quot;]/div[@class=&quot;css-18stsh5&quot;]/div[@class=&quot;css-1y23cti&quot;]/p[@class=&quot;css-wc5b3e&quot;]</value>
+      <webElementGuid>8edee05c-e7f6-43fe-87d8-693c5f967e4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/a/div/div/p</value>
+      <webElementGuid>502ca566-5551-4992-8f71-cb50ee48e195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menggunakan Data Science untuk Mengembangkan Bisnis bagi Data Scientist'])[1]/following::p[153]</value>
+      <webElementGuid>ae42de02-1c6c-4298-ae02-2f687a3e596e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIHAT DOKUMEN']/parent::*</value>
+      <webElementGuid>8a40b63d-8a41-4cdf-81f5-e31c3b6ca4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/p</value>
+      <webElementGuid>64bf1a3e-dca6-4ec6-9405-48704bbe415e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'LIHAT DOKUMEN' or . = 'LIHAT DOKUMEN')]</value>
+      <webElementGuid>c3c0b1a6-38a3-4d6e-8a45-f2e427b824b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pengujian fitur registrasi 1</description>
+   <name>Registrasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>622aafaf-afee-4920-8a90-5b2d934cae88</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lanjut</name>
+   <tag></tag>
+   <elementGuidId>05ac9265-90df-43e8-a4e7-372b6a8e7183</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.AppButton__StyledButton-sc-mn3o1q-0.bpCeTv.continueBtnMobile.MuiButton-containedPrimary > span.MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuis Final'])[3]/following::span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85220e36-c236-4b09-83c0-6d7f9fcb0650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>4939ca7d-85f0-4f39-899f-804a19dc4690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lanjut</value>
+      <webElementGuid>88e261f8-9b04-42f5-83c2-7e990d709b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;MuiDialog-root DialogModal__DialogWrap-sc-3df5i2-0 iQzswZ&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper&quot;]/div[@class=&quot;MuiPaper-root MuiDialog-paper confPaper overflow-hidden MuiDialog-paperScrollPaper MuiDialog-paperWidthXs MuiDialog-paperFullScreen MuiPaper-elevation24 MuiPaper-rounded&quot;]/div[@class=&quot;MuiDialogContent-root p-0 sd-flex flex-column justify-content-center&quot;]/div[@class=&quot;childrenWrap&quot;]/div[@class=&quot;dialogContent&quot;]/div[@class=&quot;flex mt-4&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained AppButton__StyledButton-sc-mn3o1q-0 bpCeTv continueBtnMobile MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>3012a209-e619-432e-abf1-43f072acd4c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kuis Final'])[3]/following::span[3]</value>
+      <webElementGuid>18efea92-5fc9-4e13-a645-d91a8eb30c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tersedia juga di'])[1]/following::span[3]</value>
+      <webElementGuid>1b30d3f8-dc3f-4e84-8ae1-b564d419c0fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lanjut']/parent::*</value>
+      <webElementGuid>0cb92992-c49e-42c6-91c7-250f985a700f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span</value>
+      <webElementGuid>4afcd80e-a6de-47a6-b5d0-272fce9dfe60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lanjut' or . = 'Lanjut')]</value>
+      <webElementGuid>dbaf3e3b-ba97-4017-a404-2a5778073474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

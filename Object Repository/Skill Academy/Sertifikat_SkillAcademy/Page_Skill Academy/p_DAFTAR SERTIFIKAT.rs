@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_DAFTAR SERTIFIKAT</name>
+   <tag></tag>
+   <elementGuidId>10e675aa-2eed-4e0f-a352-7bae0e343b2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-scrollview-children-container']/div[3]/div/div/div/div/div/span[3]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8a89f232-2b40-43df-83c4-a2a519b7bb5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-cif80s</value>
+      <webElementGuid>910589f4-f66c-408e-8a17-2927bef4ffcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>title-tab</value>
+      <webElementGuid>3df73e52-3c67-4bab-8480-a24d37328952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAFTAR SERTIFIKAT</value>
+      <webElementGuid>77b99082-ed4e-4357-b5e3-4a3b65cd5af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-scrollview-children-container&quot;)/div[@class=&quot;css-sh4bij&quot;]/div[@class=&quot;css-13ookwh&quot;]/div[@class=&quot;css-1naokgy&quot;]/div[@class=&quot;css-i1qldj&quot;]/div[1]/div[@class=&quot;css-10826fd&quot;]/span[3]/div[@class=&quot;css-1v3ribi&quot;]/div[@class=&quot;css-1vkhs1&quot;]/div[@class=&quot;css-1tc80em&quot;]/p[@class=&quot;css-cif80s&quot;]</value>
+      <webElementGuid>90f47916-b412-4de4-b33c-dc48df02a0df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-scrollview-children-container']/div[3]/div/div/div/div/div/span[3]/div/div/div/p</value>
+      <webElementGuid>1e02b7d2-0729-42c7-9d0a-80919a68cad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Selengkapnya'])[1]/following::p[5]</value>
+      <webElementGuid>a49d2934-c07d-44eb-991e-80f368e2409b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[1]/following::p[6]</value>
+      <webElementGuid>f7dea0a1-7288-4008-9d0c-be8aa67d730e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/preceding::p[1]</value>
+      <webElementGuid>368cd34a-bff1-4fd2-9d83-6642a6b24119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dalam Progres'])[1]/preceding::p[1]</value>
+      <webElementGuid>4ca13a82-62cb-4d62-9c00-ba491abd5f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DAFTAR SERTIFIKAT']/parent::*</value>
+      <webElementGuid>eafaae22-b09c-41df-9650-d3aed3783a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/div/div/div/p</value>
+      <webElementGuid>f4d82b50-5194-4f11-96b1-7b57ac93620e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'DAFTAR SERTIFIKAT' or . = 'DAFTAR SERTIFIKAT')]</value>
+      <webElementGuid>6e7dda23-64c1-4fd4-82dd-2c49601dea96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_BELI SEKARANG</name>
+   <tag></tag>
+   <elementGuidId>6cf295fd-d22c-4d5e-a216-f122d72013d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-wc5b3e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-scrollview-children-container']/div[6]/div/div[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f4f4ace4-bd56-4510-ac62-60998ed69b9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-wc5b3e</value>
+      <webElementGuid>47bb3205-802e-41ff-813a-9a0183c9fa8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BELI SEKARANG</value>
+      <webElementGuid>2dc5eac2-bc36-4d25-afe0-68c26a78b101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-scrollview-children-container&quot;)/div[@class=&quot;css-1j6j32b&quot;]/div[@class=&quot;css-c484k5&quot;]/div[@class=&quot;css-18stsh5&quot;]/div[@class=&quot;css-113z2ri&quot;]/p[@class=&quot;css-wc5b3e&quot;]</value>
+      <webElementGuid>3f951cfd-ba43-41a0-8903-52691607aac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-scrollview-children-container']/div[6]/div/div[3]/div/p</value>
+      <webElementGuid>ad062a81-eebb-4e79-97b5-809e7a5fcb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memulai Bisnis Pastry untuk Pemilik Usaha Kue UMKM'])[1]/following::p[34]</value>
+      <webElementGuid>7e368b97-7312-4f57-be20-4270cb1e4770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belajar Menerapkan Prinsip Dasar Memasak dan Sistem Keamanan Pangan untuk Chef Pemula'])[1]/following::p[40]</value>
+      <webElementGuid>804d19b3-f5f9-4044-9aa7-6ffa88c380ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://skillacademy.com/p/try-out-skd-cpns-terlengkap?courseType=SingleCourse'])[1]/preceding::p[3]</value>
+      <webElementGuid>8a5b6618-cab9-4557-9acb-924d8bdd0012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://skillacademy.com/p/try-out-skd-cpns-terlengkap?courseType=SingleCourse'])[2]/preceding::p[5]</value>
+      <webElementGuid>238e4b6c-1561-48a6-adce-d8e7c37134d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BELI SEKARANG']/parent::*</value>
+      <webElementGuid>b4cc6fb0-8631-45b6-9069-3d02d9920620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[3]/div/p</value>
+      <webElementGuid>50bd53bc-086c-4f97-8b8a-4a1c84d0b5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'BELI SEKARANG' or . = 'BELI SEKARANG')]</value>
+      <webElementGuid>ad861968-5ffc-465f-bcf2-6ba82eba3995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
