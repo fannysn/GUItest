@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selamat datang di Yahoo</name>
+   <tag></tag>
+   <elementGuidId>b2adf1ec-736d-42a4-b025-7f7450228d6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.en_N.u_Z13VSE6.o_h.G_e.J_x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mail-app-component']/div/div/div/div[3]/div/div/div[3]/div/div/ul/li[2]/a/div/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be6a2791-7684-448a-b857-cad345ca9739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>message-subject</value>
+      <webElementGuid>44a26d0e-62be-43cd-aecb-e0ad43311fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>en_N u_Z13VSE6 o_h G_e J_x</value>
+      <webElementGuid>a344209d-f8ce-4bcc-81dc-bb647bfab961</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>dcba9148-16f8-486f-bf2c-9ce11409c921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Selamat datang di Yahoo</value>
+      <webElementGuid>4fa3e298-3043-4c35-b0ac-e4c2e8cc03d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat datang di Yahoo</value>
+      <webElementGuid>1f33785e-15a4-4e13-9130-9b4f9db2b374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mail-app-component&quot;)/div[@class=&quot;em_N gl_C o_h D_F p_R U_0&quot;]/div[@class=&quot;W_6D6F D_F&quot;]/div[@class=&quot;D_F ab_FT em_N ek_BB W_6D6F&quot;]/div[@class=&quot;D_F ab_FT em_N ek_BB iz_A H_6D6F&quot;]/div[@class=&quot;D_F H_6D6F ab_FT em_N p_R M_0&quot;]/div[@class=&quot;D_F ek_BB W_6D6F&quot;]/div[@class=&quot;W_6D6F H_6D6F cZ1RN91d_n o_h p_R em_N D_F&quot;]/div[@class=&quot;p_R o_h D_F H_A W_6D6F k_w em_N&quot;]/div[@class=&quot;p_R Z_0 iy_h iz_A W_6D6F H_6D6F k_w em_N c22hqzz_GN&quot;]/ul[@class=&quot;M_0 P_0&quot;]/li[@class=&quot;H_A hd_n p_a L_0 R_0&quot;]/a[@class=&quot;D_B bn_dBP bm_FJ bj_ZpQYvz I4_Z1gjdjJ&quot;]/div[@class=&quot;D_F r_P ab_C p_R A_6EqO i_6FIA c1AVi73_6FsP c1AVi7H_6LEV o_h X_eo6 Y_eo6 message-list-item&quot;]/div[@class=&quot;D_F o_h ab_C H_6D6F em_sL ej_0&quot;]/div[@class=&quot;D_F ab_C o_h H_6D6F em_N E_fq7 J_x&quot;]/div[@class=&quot;en_3ixhM o_h a_6D6F D_F ab_C&quot;]/span[@class=&quot;en_N u_Z13VSE6 o_h G_e J_x&quot;]</value>
+      <webElementGuid>b3998bc5-5897-4e51-a30b-947bd1b84574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mail-app-component']/div/div/div/div[3]/div/div/div[3]/div/div/ul/li[2]/a/div/div[3]/div/div/span</value>
+      <webElementGuid>a3a18051-268e-4153-be34-d6069741f037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yahoo Home'])[1]/following::span[5]</value>
+      <webElementGuid>873ca8cc-d427-49c6-aab8-00f40d1080a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trading Nasdaq &amp; Dow Jones dengan bonus s/d $5.000'])[1]/following::span[11]</value>
+      <webElementGuid>4d27ef1e-120a-4e64-8645-9dd6899cce4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selamat datang di']/parent::*</value>
+      <webElementGuid>89b6a255-69c6-4ce2-8074-d6fd93229dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div/span</value>
+      <webElementGuid>8085fddf-612c-41d5-9aff-5a1d896e412f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Selamat datang di Yahoo' and (text() = 'Selamat datang di Yahoo' or . = 'Selamat datang di Yahoo')]</value>
+      <webElementGuid>3c110ad6-f3fd-473d-b914-1cdf17604185</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

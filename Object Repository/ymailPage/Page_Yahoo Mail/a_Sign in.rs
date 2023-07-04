@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign in</name>
+   <tag></tag>
+   <elementGuidId>2975394a-d496-4b1d-8feb-1a38f494e171</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.fuji-button-link.fuji-button-inverted.signin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='signin-main']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>54122c9c-cdcb-474f-a1d2-ad3a0439feba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://login.yahoo.com?.src=ym&amp;pspid=1197806870&amp;activity=header-signin&amp;.lang=en-US&amp;.intl=us&amp;.done=https%3A%2F%2Fmail.yahoo.com%2Fd</value>
+      <webElementGuid>5ff176e7-0441-41e7-96c8-7478dfd88c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fuji-button-link fuji-button-inverted signin</value>
+      <webElementGuid>068128de-f86b-4f14-aab0-146c247152dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ylk</name>
+      <type>Main</type>
+      <value>mKey:signin_click</value>
+      <webElementGuid>ae14528f-0a39-49d9-ab70-d113c261b4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>a2d488d7-0fe5-4e75-a3a2-e8a48c0626b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rapid_p</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6694040e-a292-480f-9c84-649307c47a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>794ae746-afc8-472b-9279-5d6361b721ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signin-main&quot;)/div[@class=&quot;header clearfix&quot;]/a[@class=&quot;fuji-button-link fuji-button-inverted signin&quot;]</value>
+      <webElementGuid>d60734e3-5119-44c3-aa8c-dc7774569eb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='signin-main']/div/a</value>
+      <webElementGuid>fdb0ff00-a599-408d-bbcb-510f2fdf3fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign in')]</value>
+      <webElementGuid>3bdf685d-c15c-4595-8b69-65bd69840764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Yahoo Mail'])[1]/preceding::a[1]</value>
+      <webElementGuid>f74ce1cf-75f5-4e29-80fe-df51138a05b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade to Mail Plus'])[1]/preceding::a[2]</value>
+      <webElementGuid>de1ccad3-c7f5-44e5-bd34-489d88b52477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
+      <webElementGuid>76e135fb-5966-4559-ad22-4fb6f623ff3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://login.yahoo.com?.src=ym&amp;pspid=1197806870&amp;activity=header-signin&amp;.lang=en-US&amp;.intl=us&amp;.done=https%3A%2F%2Fmail.yahoo.com%2Fd')]</value>
+      <webElementGuid>1a5b9b39-30c0-4c73-9da6-10f2b6901358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>a7468872-9e41-4342-b644-9a88d3ed23ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://login.yahoo.com?.src=ym&amp;pspid=1197806870&amp;activity=header-signin&amp;.lang=en-US&amp;.intl=us&amp;.done=https%3A%2F%2Fmail.yahoo.com%2Fd' and @alt = 'Sign in' and (text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>2c828159-7567-4bd2-9793-3b2df4eef522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Nikmati aplikasi denganmudah</name>
+   <tag></tag>
+   <elementGuidId>605a2458-4ad2-4553-9b50-4991e359e0f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yiv5514887485']/div/table/tbody/tr/td/table/tbody/tr[2]/td/table[4]/tbody/tr/td/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8e6b233c-4af3-4047-9a32-b24d0581ad46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>b7c5811c-12b2-4f52-a2b0-3ec0ca74a21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>9ec48f13-9759-40b5-b0ec-ca2d6233fc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yiv5514887485font3</value>
+      <webElementGuid>dabb04c6-4c9a-4b08-8414-bc90d415d599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nikmati aplikasi dengan
+															mudah</value>
+      <webElementGuid>9ef460ff-30cf-462b-9a1d-f032766e3703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yiv5514887485&quot;)/div[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;yiv5514887485table-width&quot;]/tbody[1]/tr[2]/td[1]/table[@class=&quot;yiv5514887485table-width&quot;]/tbody[1]/tr[1]/td[@class=&quot;yiv5514887485padl25&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;yiv5514887485font3&quot;]</value>
+      <webElementGuid>75491265-f5b9-4e07-8869-8acf7c24026e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yiv5514887485']/div/table/tbody/tr/td/table/tbody/tr[2]/td/table[4]/tbody/tr/td/table/tbody/tr/td</value>
+      <webElementGuid>64eb98b0-e199-448d-b285-86a41f828a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jelajahi Yahoo'])[1]/following::td[3]</value>
+      <webElementGuid>7bedf3e2-9208-49b7-a912-69fa07f3f444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan aplikasi Anda'])[1]/preceding::td[2]</value>
+      <webElementGuid>c548ee79-ad1c-4e98-81af-efafb1b4a4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buang kata sandi Anda'])[1]/preceding::td[5]</value>
+      <webElementGuid>ddc6c1e7-9d79-476a-91d1-7ca161c872d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nikmati aplikasi dengan']/parent::*</value>
+      <webElementGuid>84388b65-88d7-46fa-a9de-ff5163ae14c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[4]/tbody/tr/td/table/tbody/tr/td</value>
+      <webElementGuid>a4bcb457-c01b-420d-95fa-591f18d13d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Nikmati aplikasi dengan
+															mudah' or . = 'Nikmati aplikasi dengan
+															mudah')]</value>
+      <webElementGuid>20260004-8a03-4084-93fc-b22a96a05964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

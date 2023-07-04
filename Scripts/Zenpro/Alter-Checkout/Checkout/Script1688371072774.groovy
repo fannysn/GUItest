@@ -31,7 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Alter/Edit-Rating/Login
 
 WebUI.click(findTestObject('Object Repository/Alter/Edit-Rating/LoginPage/span_Masuk'))
 
-WebUI.setText(findTestObject('Alter/Pelatihan Page/txt_SearchBar'), 'Menjadi Seorang Chef dengan Memasak Masakan Populer Khas Indonesia')
+WebUI.setText(findTestObject('Alter/Pelatihan Page/txt_SearchBar'), 'asdasdasd')
 
 WebUI.sendKeys(findTestObject('Alter/Pelatihan Page/txt_SearchBar'), Keys.chord(Keys.ENTER))
 

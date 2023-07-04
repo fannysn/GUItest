@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_next</name>
+   <name>option_Sarjana</name>
    <tag></tag>
-   <elementGuidId>85bde6e9-2e38-450a-a81e-9dfd007adeee</elementGuidId>
+   <elementGuidId>d163be3d-633e-4044-8000-f62c882f54e4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;identifierNext&quot;]/div/button</value>
+         <value>//*[@id=&quot;menu-&quot;]/div[3]/ul/li[4]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
