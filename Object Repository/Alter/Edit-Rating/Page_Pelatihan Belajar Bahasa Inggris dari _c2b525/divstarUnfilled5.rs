@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>divstarUnfilled5</name>
+   <tag></tag>
+   <elementGuidId>a2b4e14a-8278-44bc-b8bb-0b3deac98ba9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class=&quot;reviewStar&quot;]/div[1]/div[5]/button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;simple-tab-[object Object]&quot;]/span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.reviewStar > div.jss530 > #starRatingDiv-2 > #starRatingFilled-2 > span.MuiIconButton-label > svg.MuiSvgIcon-root.filledStar > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>starRatingDiv-5</value>
+      <webElementGuid>4feeca83-166c-42f6-8c46-85709258982b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss518</value>
+      <webElementGuid>4fb593b9-344a-4830-9472-7959c3503498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class=&quot;reviewStar&quot;]/div[1]/div[5]/button</value>
+      <webElementGuid>e5a06d68-1a66-4215-91db-2783a93d26d6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

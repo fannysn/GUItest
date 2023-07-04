@@ -19,13 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://zenpro.id/')
 
 WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/span_Daftar'))
 
 WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Nama Lengkap_name'), 'kang testing')
 
-WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Email_email'), 'izza.test1@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Email_email'), GlobalVariable.registerMail)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Kata Sandi_password'), 
     'RigbBhfdqOBGNlJIWM1ClA==')
@@ -33,7 +35,25 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Registrasi_Zenpro.id/Pa
 WebUI.sendKeys(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Kata Sandi_password'), Keys.chord(
         Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_/input_kodeOTP'), '7')
+WebUI.executeJavaScript('window.open();', [])
+
+currentWindow = WebUI.getWindowIndex()
+
+WebUI.switchToWindowIndex(currentWindow + 1)
+
+WebUI.callTestCase(findTestCase('Zenpro/Registrasi/getOTPYahoo'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.switchToWindowIndex(currentWindow)
+
+OTP = GlobalVariable.mailOTP
+
+WebUI.setText(findTestObject('Registrasi_Zenpro.id/Page_/otp1'), OTP[0])
+
+WebUI.setText(findTestObject('Registrasi_Zenpro.id/Page_/otp2'), OTP[1])
+
+WebUI.setText(findTestObject('Registrasi_Zenpro.id/Page_/otp3'), OTP[2])
+
+WebUI.setText(findTestObject('Registrasi_Zenpro.id/Page_/otp4'), OTP[3])
 
 WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_/span_Verifikasi'))
 
@@ -43,24 +63,23 @@ WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboardi
 
 WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/span_Pengembangan Diri'))
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/span_Lanjut'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/btn_Lanjut_Atminat belajar'))
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/body_iframe srchttpswww.googletagmanager.co_21fd16'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/option_PilihTingkatPendidikan'))
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/li_Sarjana'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/option_Sarjana'))
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/body_iframe srchttpswww.googletagmanager.co_21fd16_1'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/option_PilihTingkatPengalaman'))
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/li_Kurang dari 1 tahun'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/option_kurang dr 1 tahun'))
 
-WebUI.setText(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/input_Nomor Telepon_phone-number'), 
-    '81445671223')
+WebUI.setText(findTestObject('Registrasi_Zenpro.id/Page_/setDate'), '11/10/1999')
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/img'))
+WebUI.setText(findTestObject('Registrasi_Zenpro.id/Page_/form_phoneNumber'), '81445671223')
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/span_Lanjut'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/btn_Gender_Female'))
 
-WebUI.click(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Onboarding/span_Tutup'))
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/btn_Lanjut_AtCeritakan Dirimu'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Registrasi_Zenpro.id/Page_/btn_Tutup'))
 
