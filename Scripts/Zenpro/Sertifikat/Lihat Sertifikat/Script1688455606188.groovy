@@ -17,20 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://zenpro.id/')
-
-WebUI.click(findTestObject('Object Repository/Zenpro/Login_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/span_Masuk'))
-
-WebUI.setText(findTestObject('Object Repository/Zenpro/Login_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Email_email'), 
-    'fannysntest@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Zenpro/Login_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Kata Sandi_password'), 
-    '8rnxVmT9pieEqmmF1SkAqw==')
-
-WebUI.sendKeys(findTestObject('Object Repository/Zenpro/Login_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Kata Sandi_password'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.closeBrowser()
-

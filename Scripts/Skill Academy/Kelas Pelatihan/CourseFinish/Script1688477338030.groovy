@@ -19,26 +19,29 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://zenpro.id/')
+WebUI.navigateToUrl('https://skillacademy.com/')
 
-WebUI.click(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/span_Masuk'))
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_Kursus  Kelas Online Bersertifikat Ter_36758b/span_'))
 
-WebUI.setText(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Email_email'), 
-    'fannysntest@gmail.com')
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_Kursus  Kelas Online Bersertifikat Ter_36758b/span_DaftarMasuk'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Kata Sandi_password'), 
-    '8rnxVmT9pieEqmmF1SkAqw==')
+WebUI.setText(findTestObject('Object Repository/CourseSkill2/Page_Skill Academy/input_Masuk ke akun Skill Academy kamu_css-1j6p4yb'), 
+    'fannysepti69@gmail.com')
 
-WebUI.sendKeys(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Kata Sandi_password'), 
-    Keys.chord(Keys.ENTER))
+WebUI.setEncryptedText(findTestObject('Object Repository/CourseSkill2/Page_Skill Academy/input_Email tidak valid_css-1j6p4yb'), 
+    'B3pfQ7Quzm3kP4HwRD4Prg==')
 
-WebUI.setText(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_di sini_MuiInputBase-input MuiOutline_e80402'), 
-    'bisnis')
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_Skill Academy/p_MASUK'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_di sini_MuiInputBase-input MuiOutline_e80402'), 
-    Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_Kursus  Kelas Online Bersertifikat Ter_36758b/span_Kelas Saya'))
 
-WebUI.click(findTestObject('Object Repository/Zenpro/Search_Zenpro.id/Page_Hasil Pencarian bisnis  ZENPRO/img'))
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_Skill Academy/p_Lanjut'))
+
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_/img_1'))
+
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_/p_LIHAT DOKUMEN'))
+
+WebUI.click(findTestObject('Object Repository/CourseSkill2/Page_/p_Selanjutnya'))
 
 WebUI.closeBrowser()
 

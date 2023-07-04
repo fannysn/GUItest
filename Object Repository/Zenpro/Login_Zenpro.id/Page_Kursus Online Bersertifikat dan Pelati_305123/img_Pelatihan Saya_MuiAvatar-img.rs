@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Pelatihan Saya_MuiAvatar-img</name>
+   <tag></tag>
+   <elementGuidId>c285b5c8-b1aa-4425-ba57-ef03cfce26d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div/header/div/div/div[3]/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.MuiAvatar-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>33881ae7-066e-422a-87e3-bfa2571f9e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Fanny Septi Nurcahyani</value>
+      <webElementGuid>81aac05b-aa34-40cd-a36f-a39ce3b3aebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://zenius.net/product/zenpro/images/default_avatar.png</value>
+      <webElementGuid>182c0fe8-ef0e-4ae4-861a-64558b41137d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiAvatar-img</value>
+      <webElementGuid>5b6d84f9-8867-4926-880f-35cc6f324e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jss10&quot;]/div[@class=&quot;jss13&quot;]/header[@class=&quot;MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary jss14 MuiPaper-elevation4&quot;]/div[@class=&quot;MuiToolbar-root MuiToolbar-regular jss15&quot;]/div[@class=&quot;jss16&quot;]/div[@class=&quot;jss18&quot;]/div[@class=&quot;d-flex align-items-center cursor-pointer&quot;]/div[@class=&quot;MuiAvatar-root MuiAvatar-circular&quot;]/img[@class=&quot;MuiAvatar-img&quot;]</value>
+      <webElementGuid>521b54e9-800a-4a40-9087-e8c0dce8806f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div/header/div/div/div[3]/div/div[2]/img</value>
+      <webElementGuid>3c5a6c16-b39d-4b7d-97a7-89a615b44634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Fanny Septi Nurcahyani']</value>
+      <webElementGuid>c0228dfd-2503-4cb4-a85e-a409a4a888ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>c30cd59a-16a3-4e30-aedd-4a06884900c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Fanny Septi Nurcahyani' and @src = 'https://zenius.net/product/zenpro/images/default_avatar.png']</value>
+      <webElementGuid>a053318d-384b-4682-ad1e-4cc68f500be8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
