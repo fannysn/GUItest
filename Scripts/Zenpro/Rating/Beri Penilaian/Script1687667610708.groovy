@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://zenpro.id/')
 WebUI.click(findTestObject('Object Repository/Penilaian_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/span_Masuk'))
 
 WebUI.setText(findTestObject('Object Repository/Penilaian_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Email_email'), 
-    'fannysntest@gmail.com')
+    'fannytest@gmail.com\n')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Penilaian_Zenpro.id/Page_Kursus Online Bersertifikat dan Pelati_305123/input_Kata Sandi_password'), 
     '8rnxVmT9pieEqmmF1SkAqw==')

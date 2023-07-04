@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_paymenMethod_counter</name>
+   <tag></tag>
+   <elementGuidId>26e3150a-5f41-479d-8531-31bef4298b29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'mui-57933' and @class = 'jss415']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[3]/div/div[1]/div[2]/div/label[2]/span[1]/span[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>mui-57933</value>
+      <webElementGuid>cb1727d2-c88e-422c-ac59-25056051432f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss415</value>
+      <webElementGuid>63c073e0-6c66-44e3-b6c5-022e04842612</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
