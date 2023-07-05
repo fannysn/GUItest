@@ -31,11 +31,6 @@ WebUI.setText(findTestObject('Object Repository/ymailPage/Page_Yahoo/input_to fi
 
 WebUI.click(findTestObject('Object Repository/ymailPage/Page_Yahoo/button_Next'))
 
-if (WebUI.verifyElementPresent(findTestObject('ymailPage/verifyTheme'), 5, FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('ymailPage/btn_Selesi_verifyTheme'))
-}
-
-
 WebUI.setText(findTestObject('Object Repository/ymailPage/Page_(1 unread) - izza.test1yahoo.com - Yahoo Mail/input_Yahoo Mail_select-input react-typeahe_333923'), 
     'Berikut kode OTP akun Zenius Kamu')
 
