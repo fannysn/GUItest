@@ -35,6 +35,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Registrasi_Zenpro.id/Pa
 WebUI.sendKeys(findTestObject('Object Repository/Registrasi_Zenpro.id/Page_Sign up/input_Kata Sandi_password'), Keys.chord(
         Keys.ENTER))
 
+WebUI.delay(5)
+
 WebUI.executeJavaScript('window.open();', [])
 
 currentWindow = WebUI.getWindowIndex()
